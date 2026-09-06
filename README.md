@@ -10,7 +10,7 @@
 <details>
 <summary>${\color{#E69D1E}\text{pt⠀info}}$</summary>
 
-${\color{#F3B82C}\text{system + aspd}}$ <br> ${\color{#F3B82C}\text{we⠀block⠀+⠀hide⠀rarely⠀but⠀freely}}$ <br> ${\color{#F3B82C}\text{any⠀fandom⠀ships⠀iwvec⠀unless⠀friends⠀pls}}$ <br> ${\color{#F3B82C}\text{usually⠀unavailable⠀between⠀8:40⠀AM⠀to⠀3:50/4:30⠀PM,⠀weekdays⠀only⠀(UTC⠀+1)}}$ <br> ${\color{#F3B82C}\text{we⠀take⠀frequent⠀naps⠀tho⠀so⠀uhh..⠀if⠀we're⠀sleeping⠀in⠀game⠀after⠀then⠀we're⠀defo⠀napping}}$ <br> ${\color{#F3B82C}\text{be⠀careful⠀of⠀what⠀you⠀say⠀unless⠀you're⠀mentioned⠀in⠀our⠀gh⠀nd⠀check⠀strawpage⠀4⠀more⠀info}}$
+${\color{#F3B82C}\text{system + aspd}}$ <br> ${\color{#F3B82C}\text{we⠀block⠀+⠀hide⠀rarely⠀but⠀freely}}$ <br> ${\color{#F3B82C}\text{any⠀fandom⠀ships⠀iwvec⠀unless⠀friends⠀pls}}$ <br>  ${\color{#F3B82C}\text{side note; ANY ships of my high kins strictly dni unless very close}}$ <br> ${\color{#F3B82C}\text{usually⠀unavailable⠀between⠀8:40⠀AM⠀to⠀3:50/4:30⠀PM,⠀weekdays⠀only⠀(UTC⠀+1)}}$ <br> ${\color{#F3B82C}\text{we⠀take⠀frequent⠀naps⠀tho⠀so⠀uhh..⠀if⠀we're⠀sleeping⠀in⠀game⠀after⠀then⠀we're⠀defo⠀napping}}$ <br> ${\color{#F3B82C}\text{be⠀careful⠀of⠀what⠀you⠀say⠀unless⠀you're⠀mentioned⠀in⠀our⠀gh⠀nd⠀check⠀strawpage⠀4⠀more⠀info}}$
 </details>
 </div>
 
@@ -36,4 +36,4 @@ ${\color{#F3B82C}\text{we're⠀usually⠀nonverbal,⠀so⠀don't⠀expect⠀repl
 </p>
 
 <p align="center">
-${\color{#F3B82C}\text{THE⠀player⠀of⠀pony⠀town,⠀tysm⠀sugar⠀<3}}$ <br> <a href="https://github.com/title-town">(𖹭)</a> <br> <sub> ${\color{#E69D1E}\text{Butcherbraids⠀(lily⠀x⠀player)⠀OR⠀LILY⠀X⠀DOCTOR⠀strict⠀DNI⠀PLEASE⠀UR⠀WEIRD⠀NO⠀OFFENSE}}$ </sub>
+${\color{#F3B82C}\text{THE⠀player⠀of⠀pony⠀town,⠀tysm⠀sugar⠀<3}}$ <br> <a href="https://github.com/title-town">(𖹭)</a>
